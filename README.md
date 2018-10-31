@@ -26,7 +26,7 @@ Additional customized tabs can be added to the XLSX file to follow the format of
 
 # Usage
 
-#### JSS/MDM Set Up
+#### JAMF/MDM Set Up
 Script to be placed before AD Binding (change the url to the IP Address of the server)
 ```
 url="<server ip address>:8080"
