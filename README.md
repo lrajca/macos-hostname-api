@@ -56,7 +56,7 @@ The page should return a "Spreadsheet Updated"
 
 Once up and running you can test by browsing to 
 
-``` <ip address of server:8080/><serial number in spreadsheet>
+``` <ip address of server:8080/><serial number in spreadsheet> ```
 
 
 ### To do:
