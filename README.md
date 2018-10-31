@@ -52,3 +52,10 @@ The XLSX file will need to be updated locally once any changes are made to the o
 e.g 192.168.0.1:8080/update
 
 The page should return a "Spreadsheet Updated"
+
+
+
+
+### To do:
+
+- [ ] Docker deployment of application, running nginx and gunicorn for additional workers
