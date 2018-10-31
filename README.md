@@ -54,6 +54,9 @@ e.g 192.168.0.1:8080/update
 The page should return a "Spreadsheet Updated"
 
 
+Once up and running you can test by browsing to 
+
+``` <ip address of server:8080/><serial number in spreadsheet>
 
 
 ### To do:
